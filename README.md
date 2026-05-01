@@ -104,15 +104,15 @@ In-progress hardware and software project involving drone assembly, configuratio
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JadJonaidi&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=JadJonaidi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadJonaidi&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadJonaidi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
-
----
 
 ## Currently Working On
 
