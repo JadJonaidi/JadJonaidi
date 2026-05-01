@@ -1,10 +1,10 @@
 <div align="center">
 
-# Jad Jonaidi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Jad%20Jonaidi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-### Software Engineer | Full-Stack Developer | Backend & API Focus
+<h2>Software Engineer • Full-Stack Developer • Backend & APIs</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend+%26+API+Focused;Building+real-world+software" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Building+real-world+software;Full-Stack+Web+%26+Mobile+Developer;Backend+%7C+APIs+%7C+Systems+Design" />
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ## About Me
 
-Software Engineering graduate with hands-on experience building full-stack web and mobile applications, with a strong focus on backend systems, APIs, and data processing.
+I’m a software engineer focused on building full-stack web and mobile applications, with a strong emphasis on backend systems, APIs, and data-driven solutions.
 
-Experienced in developing internal tools for inventory tracking, order management, and workflow optimization. I focus on writing clean, reliable code and building systems that solve real-world problems.
+I’ve worked on internal tools supporting inventory tracking, order management, and operational workflows — improving system efficiency, data accuracy, and reliability.
 
 ---
 
@@ -23,6 +23,40 @@ Experienced in developing internal tools for inventory tracking, order managemen
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nodejs,express,fastapi,flask,django,docker,aws,git,linux,mysql,firebase" />
+
+</div>
+
+---
+
+## What I Build
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%">
+
+### Full-Stack Apps
+
+Modern web apps with authentication, APIs, and dynamic UI
+
+</td>
+<td width="33%">
+
+### Backend Systems
+
+Scalable APIs, data processing, and structured architecture
+
+</td>
+<td width="33%">
+
+### Mobile Apps
+
+Cross-platform apps focused on performance and UX
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -38,18 +72,14 @@ Experienced in developing internal tools for inventory tracking, order managemen
 
 ### Full-Stack Application
 
-End-to-end application with authentication, API integration, and dynamic UI.
-
-**Stack:** React, Node.js, Express, Database
+End-to-end application with authentication, API integration, and database support
 
 </td>
 <td width="50%">
 
 ### Backend API System
 
-RESTful API with structured data handling, validation, and error management.
-
-**Focus:** Performance, clean architecture
+RESTful API with validation, error handling, and clean architecture
 
 </td>
 </tr>
@@ -59,18 +89,14 @@ RESTful API with structured data handling, validation, and error management.
 
 ### Mobile Application
 
-Cross-platform mobile app with emphasis on usability and performance.
-
-**Stack:** React Native, Firebase
+React Native app built for usability and performance
 
 </td>
 <td width="50%">
 
 ### FPV Drone Project
 
-Hardware + software project involving drone assembly and system configuration.
-
-**Focus:** Embedded systems, debugging
+Hardware + software project exploring embedded systems and control
 
 </td>
 </tr>
@@ -80,16 +106,18 @@ Hardware + software project involving drone assembly and system configuration.
 
 ---
 
-## What I’m Working On
+## Currently Working On
 
-* Building production-level full-stack applications
-* Improving backend architecture and API design
-* Learning cloud deployment (AWS) and DevOps practices
-* Developing an FPV drone project
+```text
+▰ Building full-stack applications
+▰ Improving backend architecture
+▰ Learning AWS & deployment workflows
+▰ Developing FPV drone system
+```
 
 ---
 
-## Contact
+## Connect With Me
 
 <div align="center">
 
@@ -104,3 +132,9 @@ Hardware + software project involving drone assembly and system configuration.
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
