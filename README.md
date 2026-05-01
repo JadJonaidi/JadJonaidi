@@ -1,68 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Jad%20Jonaidi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-<h2>Software Engineer • Full-Stack Developer • Backend & APIs</h2>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Building+real-world+software;Full-Stack+Web+%26+Mobile+Developer;Backend+%7C+APIs+%7C+Systems+Design" />
-
-</div>
-
----
-
-## About Me
-
-I’m a software engineer focused on building full-stack web and mobile applications, with a strong emphasis on backend systems, APIs, and data-driven solutions.
-
-I’ve worked on internal tools supporting inventory tracking, order management, and operational workflows — improving system efficiency, data accuracy, and reliability.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nodejs,express,fastapi,flask,django,docker,aws,git,linux,mysql,firebase" />
-
-</div>
-
----
-
-## What I Build
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%">
-
-### Full-Stack Apps
-
-Modern web apps with authentication, APIs, and dynamic UI
-
-</td>
-<td width="33%">
-
-### Backend Systems
-
-Scalable APIs, data processing, and structured architecture
-
-</td>
-<td width="33%">
-
-### Mobile Apps
-
-Cross-platform apps focused on performance and UX
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## Featured Work
+## Featured Projects
 
 <div align="center">
 
@@ -70,16 +6,45 @@ Cross-platform apps focused on performance and UX
 <tr>
 <td width="50%">
 
-### Full-Stack Application
+### 🔹 Full-Stack Job Tracker
 
-End-to-end application with authentication, API integration, and database support
+A full-stack web application designed to manage job applications with authentication, dashboard analytics, and real-time updates.
+
+**Highlights**
+
+* Secure authentication (JWT)
+* CRUD operations for applications
+* Dashboard with filtering & tracking
+* Clean REST API integration
+
+**Tech Stack**
+React • Node.js • Express • MongoDB
+
+<a href="#">
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%">
 
-### Backend API System
+### 🔹 Inventory Management API
 
-RESTful API with validation, error handling, and clean architecture
+Backend system for handling inventory, orders, and data processing with emphasis on scalability and structure.
+
+**Highlights**
+
+* RESTful API design
+* Data validation & error handling
+* Structured service/controller architecture
+* Optimized queries for performance
+
+**Tech Stack**
+Node.js • Express • SQL
+
+<a href="#">
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -87,54 +52,47 @@ RESTful API with validation, error handling, and clean architecture
 <tr>
 <td width="50%">
 
-### Mobile Application
+### 🔹 Mobile Productivity App
 
-React Native app built for usability and performance
+Cross-platform mobile app focused on task management, performance, and clean UI/UX.
+
+**Highlights**
+
+* Responsive UI with smooth navigation
+* Real-time updates
+* Firebase integration
+* Optimized mobile performance
+
+**Tech Stack**
+React Native • Firebase
+
+<a href="#">
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%">
 
-### FPV Drone Project
+### 🔹 FPV Drone System (In Progress)
 
-Hardware + software project exploring embedded systems and control
+Hands-on hardware/software project involving drone assembly, configuration, and flight optimization.
+
+**Highlights**
+
+* Flight system setup & tuning
+* Hardware/software integration
+* Debugging and performance testing
+
+**Focus Areas**
+Embedded Systems • Control • Hardware
+
+<a href="#">
+<img src="https://img.shields.io/badge/Progress-In--Development-orange?style=for-the-badge"/>
+</a>
 
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## Currently Working On
-
-```text
-▰ Building full-stack applications
-▰ Improving backend architecture
-▰ Learning AWS & deployment workflows
-▰ Developing FPV drone system
-```
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
