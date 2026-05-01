@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I’m Jad Jonaidi 👋
+# Hi, I’m Jad Jonaidi
 
 ### Software Engineering Graduate | Full-Stack Developer | Backend & API Enthusiast
 
