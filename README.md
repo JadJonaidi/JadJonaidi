@@ -1,49 +1,83 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hi, I’m Jad Jonaidi 👋
 
-###
+🎓 Software Engineering Graduate from the University of Michigan
+💻 Full-Stack Developer focused on building scalable web and mobile applications
+🚀 Passionate about backend systems, APIs, and real-world problem solving
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🧠 About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+I’m a software engineer with hands-on experience building full-stack applications and backend systems. I enjoy designing APIs, improving system performance, and creating solutions that make real-world workflows more efficient.
 
-###
+I’ve worked on projects involving inventory tracking, order management, and application development, where I focused on backend logic, data handling, and system reliability.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+---
 
-###
+## ⚙️ Tech Stack
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+**Languages:**
+JavaScript, TypeScript, Python, Java, C++, SQL
 
-###
+**Frameworks & Libraries:**
+React, React Native, Node.js, Express.js, FastAPI, Flask, Django
 
-<br clear="both">
+**Tools & Platforms:**
+Git, GitHub, Docker, Linux, Jenkins, Firebase, MySQL, SQLite
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+**Cloud & Practices:**
+AWS (basic), REST APIs, CI/CD, OOP, SOLID Principles, Unit Testing, Agile/Scrum
 
-###
+---
+
+## 🚀 Projects
+
+> 🔧 Currently building and refining full-stack and backend-focused applications
+
+* **Full Stack Application**
+  End-to-end web application with authentication, API integration, and dynamic UI
+
+* **Backend API System**
+  RESTful API with structured data handling, validation, and error management
+
+* **Mobile Application**
+  Cross-platform app using React Native with focus on performance and usability
+
+*(More detailed project repositories coming soon)*
+
+---
+
+## 💼 Experience
+
+**Software Engineering Intern**
+Worked on internal tools supporting business operations, including:
+
+* Inventory tracking systems
+* Order management workflows
+* Backend logic and data processing
+* System optimization and debugging
+
+Focused on improving data organization, reliability, and overall system efficiency.
+
+---
+
+## 📈 What I’m Working On
+
+* Building production-level full-stack applications
+* Strengthening backend architecture and API design
+* Expanding knowledge in AWS and cloud deployment
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: *(add your link here)*
+* Email: *(your email here)*
+
+---
+
+## ⚡ Fun Fact
+
+I’m currently building an FPV drone and enjoy working on both software and hardware projects.
+
+---
