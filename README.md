@@ -1,11 +1,15 @@
 <div align="center">
 
-# Jad Jonaidi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Jad%20Jonaidi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 ### Software Engineer • Full-Stack Developer • Backend & APIs
 
 <a href="https://jadjonaidi.com">
 <img src="https://img.shields.io/badge/Portfolio-jadjonaidi.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JadJonaidi">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -22,17 +26,11 @@ I have hands-on experience developing web and mobile applications, designing API
 
 ## Tech Stack
 
-**Languages:**
-JavaScript, TypeScript, Python, Java, C++, SQL
+<div align="center">
 
-**Frameworks & Tools:**
-React, React Native, Node.js, Express.js, FastAPI, Flask, Django
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nodejs,express,fastapi,flask,django,docker,aws,git,linux,mysql,firebase" />
 
-**Technologies:**
-Docker, Git, Linux, Firebase, MySQL, SQLite
-
-**Cloud & Practices:**
-AWS (basic), REST APIs, CI/CD, OOP, SOLID Principles
+</div>
 
 ---
 
@@ -42,8 +40,8 @@ AWS (basic), REST APIs, CI/CD, OOP, SOLID Principles
 
 Modern one-page portfolio website showcasing projects and experience.
 
-👉 [View Live Site](https://jadjonaidi.com)
-👉 [View Repository](https://github.com/JadJonaidi/PersonalPortfolio)
+[![Live Site](https://img.shields.io/badge/View_Live-0A66C2?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://jadjonaidi.com)
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JadJonaidi/PersonalPortfolio)
 
 ---
 
@@ -53,9 +51,9 @@ Backend API for an AI-based diabetic retinopathy detection system.
 
 * Image processing & model inference
 * FastAPI backend with prediction endpoints
-* Firebase integration for data handling
+* Firebase integration
 
-👉 https://github.com/AI-Retinopathy-Detector/AI-Retinopathy-Backend
+[![Repo](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AI-Retinopathy-Detector/AI-Retinopathy-Backend)
 
 ---
 
@@ -65,9 +63,9 @@ Full-stack mobile-style application for managing clothing items and planning out
 
 * Wardrobe organization & outfit creation
 * Frontend + backend integration
-* Interactive UI experience
+* Interactive UI
 
-👉 https://github.com/JadJonaidi/Virtual-Wardrobe-App
+[![Repo](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JadJonaidi/Virtual-Wardrobe-App)
 
 ---
 
@@ -77,24 +75,44 @@ Full-stack therapy website with consultation booking and admin-managed availabil
 
 * Express backend with API routes
 * SQLite data persistence
-* Booking flow with UI + backend integration
+* Booking flow integration
 
-👉 https://github.com/JadJonaidi/Therapist-Booking-Website
+[![Repo](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JadJonaidi/Therapist-Booking-Website)
 
 ---
 
 ## What I’m Working On
 
-* Building production-level full-stack applications
-* Improving backend architecture and API design
-* Expanding knowledge in cloud and deployment
+```text
+▰ Building full-stack applications
+▰ Improving backend architecture
+▰ Learning AWS & deployment
+```
 
 ---
 
 ## Contact
 
-* GitHub: https://github.com/JadJonaidi
-* LinkedIn: (add your link)
-* Email: (add your email)
+<div align="center">
+
+<a href="https://github.com/JadJonaidi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
