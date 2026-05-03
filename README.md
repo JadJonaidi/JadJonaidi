@@ -91,9 +91,9 @@ Full-stack therapy practice website with consultation booking, admin-managed ava
 
 ```text
 ▰ Building production-level full-stack applications
-▰ Improving backend architecture and API design
-▰ Expanding cloud deployment knowledge with AWS
-▰ Continuing to improve my portfolio and project presentation
+▰ Designing scalable backend systems and APIs
+▰ Exploring cloud architecture and deployment with AWS
+▰ Developing data-driven and user-focused software solutions
 ```
 
 ---
